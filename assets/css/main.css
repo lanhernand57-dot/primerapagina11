@@ -697,11 +697,11 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 2.5rem 0;
-			width: 100%;
+			width: 400%;
 		}
 
 			.image.main img {
-				width: 100%;
+				width: 350px;
 			}
 
 		@media screen and (max-width: 400px) {
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
