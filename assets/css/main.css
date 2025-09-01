@@ -701,7 +701,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 350;
+				width: 350px;
 			}
 
 		@media screen and (max-width: 736px) {
@@ -1659,3 +1659,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
