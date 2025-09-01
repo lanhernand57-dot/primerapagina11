@@ -178,7 +178,7 @@ input, select, textarea {
 		color: #04f3c9;
 		font-weight: 600;
 		line-height: 1.5;
-		margin: 0 0 1rem 0;
+		margin: 50 32 1rem 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2rem;
 	}
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
